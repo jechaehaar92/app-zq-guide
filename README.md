@@ -1,2 +1,14 @@
 # app-zq-guide
-HTML page archive and documentation
+
+静态文件发布目录
+
+该目录保存页面发布文件，便于通过仓库历史查看变化。
+
+## 文件说明
+
+- `README.md`：仓库说明
+- `*.html`：发布后的独立页面
+
+## 维护备注
+
+若仓库启用 Pages，页面可通过 Pages 地址进行访问。
